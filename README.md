@@ -1,5 +1,7 @@
 # Code Refactor Starter Code
 
+Link to the page: https://dkempen98.github.io/accessibility-challenge/#social-media-marketing
+
 # Accessibility Challenge
 
 ## Description
@@ -40,3 +42,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+<img width="338" alt="image" src="https://user-images.githubusercontent.com/25507661/165821978-d41fc7b9-299a-4d7a-8c6c-cd97124356d9.png">
