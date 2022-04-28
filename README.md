@@ -11,16 +11,6 @@ This is an exercise in increasing the accessibilty of a webpage and increase the
 - Add alt's to images
 - Generally cleaned up some of the code to make it easier to work with
 
-## Usage
-
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
-
 ## Credits
 
 The starter code was received from here: https://github.com/coding-boot-camp/urban-octo-telegram
